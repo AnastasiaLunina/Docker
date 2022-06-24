@@ -1,5 +1,5 @@
    <h2>Commands:</h2>
-   <hr>
+   
    cd stocks_products <br>
    docker build . --tag=crud <br>
    docker ps <br>
