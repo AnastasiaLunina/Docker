@@ -1,5 +1,5 @@
    <h2>Commands:</h2>
-   <hr>
+   
    mkdir docker_nginx_image <br>
    cd docker_nginx_image <br>
    code . <br>
